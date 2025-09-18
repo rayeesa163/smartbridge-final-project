@@ -69,7 +69,8 @@ Go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
-## 📊 Tableau Dashboard Link
+## 📊 Tableau Dashboard and Demo Link
+loom app(demo) link: https://www.loom.com/share/530fd5f2047c459c8f36aa95b890ad30?sid=791424ba-09e5-4bd2-9277-c0b285805bab
 
 > ✅ [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/YOUR-LINK-HERE)
 
